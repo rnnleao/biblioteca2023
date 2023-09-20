@@ -16,3 +16,5 @@ dependencies {
 	implementation 'org.glassfish.web:jakarta.servlet.jsp.jstl'
 	implementation 'mysql:mysql-connector-java:8.0.33'
 }
+
+//
